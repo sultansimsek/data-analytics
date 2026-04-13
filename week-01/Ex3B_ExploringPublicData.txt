@@ -1,0 +1,19 @@
+1. Data.gov is an open data website of the US government.
+2.I couldn't find the 'Most Viewed Datasets' part,but there are 402,396 datasets found as of April 
+12 2026.But I could order them by popularity, and the leading dataset was about Civil Rights in 
+2015-2016 school-year.
+3.In the range of 50 datasets on Human Health category the most of the topics were about 'Food'. I 
+think the reason for them to be labeled as Health category is that the food and acces to food is 
+the number one indicator of a person's health.
+4.There is a 'harvested from USDA JSON' part inside  the data catalog that leads us to more 
+datasets of USDA.
+5-6.I reside in Chicago, IL.I couldn't find the 'State of Illinois' but I did find the 'City of 
+Chicago'. Found 1092 datasets.And under 'Cook County of Illinois', found 515 datasets.
+7.Though there are a lot of researches and datasets on Data.gov, for this topic specifiaclly, 
+USDA's own site and Data page is much more organized and easier to navigate through subtopics.
+8.In FoodData Central, when I look for a food item the results I get are  both the product itself 
+and the products that have that product I look for in the ingredients.
+9.In Downloads page of foundation foods, we have the latest downloads data available, the sizes 
+vary from 210 K to 453M Zipped.Files are available to download for anyone looking for more 
+information.
+
