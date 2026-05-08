@@ -1,4 +1,4 @@
-savings = 2000
+savings = float(input("What is your current savings? "))
 interest_rate = 0.05
 years_to_double = 72 / (interest_rate * 100)
 
