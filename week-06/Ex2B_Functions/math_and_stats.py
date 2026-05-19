@@ -39,6 +39,7 @@ print("Variance of 200 values:",
 #_Modeling a random circle:
 area = pi * radius ** 2
 #Radius = __, area = ____ (rounded up to the nearest integer)
-print(f"Radius = {radius}, area = {math.ceil(area)} (rounded up)")
+print(f"Radius = {radius}, \n area = {math.ceil(area)} (rounded up)")
 #Radius = __, area = ____ (rounded down to the nearest integer)
-print(f"Radius = {radius}, area = {math.floor(area)} (rounded down)")
+print(f"Radius = {radius}, \n area = {math.floor(area)} (rounded down)")
+
