@@ -1,28 +1,8 @@
+# about_me.txt contents after manual editing:
+#
+# Name: Sultan Simsek
+# Place of birth: Ankara, Turkey
+# Pets: Yes — a cat named Nora 
+# Travel for one week: Italy — Sicily, and Rome
+# Live for a year: Italy, Rome
 
-Perfect night out:
-I'd start with dinner at a rooftop restaurant downtown,
-then catch a live jazz set, and finish with late-night tacos.
-
-Perfect night out:
-I'd start with dinner at a rooftop restaurant downtown,
-then catch a live jazz set, and finish with late-night tacos.
-
-Perfect night out:
-I'd start with dinner at a rooftop restaurant downtown,
-then catch a live jazz set, and finish with late-night tacos.
-
-Perfect night out:
-I'd start with dinner at a rooftop restaurant downtown,
-then catch a live jazz set, and finish with late-night tacos.
-
-Perfect night out:
-I'd start with dinner at a rooftop restaurant downtown,
-then catch a live jazz set, and finish with late-night tacos.
-
-Perfect night out:
-I'd start with dinner at a rooftop restaurant downtown,
-then catch a live jazz set, and finish with late-night tacos.
-
-Perfect night out:
-I'd start with dinner at a rooftop restaurant downtown,
-then catch a live jazz set, and finish with late-night tacos.
